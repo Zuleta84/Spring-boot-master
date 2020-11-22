@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85a9c42e-b056-42b3-ade7-d22b4eed0746" name="Default Changelist" comment="">
+    <list default="true" id="85a9c42e-b056-42b3-ade7-d22b4eed0746" name="Default Changelist" comment="ny code">
+      <change afterPath="$PROJECT_DIR$/gs-spring-boot-master/initial/src/main/java/com/example/springboot/app.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gs-spring-boot-master/complete/src/main/java/com/example/springboot/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gs-spring-boot-master/complete/src/main/java/com/example/springboot/HelloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
@@ -76,7 +78,19 @@
       <option name="presentableId" value="Default" />
       <updated>1606046702879</updated>
     </task>
+    <task id="LOCAL-00001" summary="ny code">
+      <created>1606053726096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606053726096</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ny code" />
+    <option name="LAST_COMMIT_MESSAGE" value="ny code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="621" y="310" key="Github.ShareDialog" timestamp="1606046716517">
@@ -87,5 +101,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="503" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606046722945" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606053732213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606053732213" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606053714459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606053714459" />
   </component>
 </project>
